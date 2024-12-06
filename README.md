@@ -94,3 +94,17 @@ Users can bypassed intended restrictions not to be able to overwrite the owner l
 
 If `checkTransaction` is entered, and the transient variables have already been assigned values, revert if the values differ from the current ones.
 
+
+
+## Discussion
+
+**spengrah**
+
+Fix PR: https://github.com/Hats-Protocol/hats-zodiac/pull/81
+
+**sherlock-admin2**
+
+The protocol team fixed this issue in the following PRs/commits:
+https://github.com/Hats-Protocol/hats-zodiac/pull/81
+
+
